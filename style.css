@@ -1,0 +1,29 @@
+body
+{
+background-position: center;
+background-size: cover;
+background-color: rgb(201, 239, 248);
+font-family: 'DynaPuff', cursive;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: rgb(255, 0, 149);
+font-family: 'DynaPuff', cursive;
+}
+
+#status , #number_of_objects
+{
+font-size: 18px;
+}
+
+canvas
+{
+box-shadow: 5px 5px 5px rgb(107, 104, 104);
+border-radius: 10px;
+margin-top: 170px;
+border-color: skyblue;
+}
